@@ -5,7 +5,7 @@ Exact Algorithms for "Complete Set Partitioning" (i.e., for "Coalition Structure
 
 To download the project, click on the "Download ZIP" button. It will take a while to download the 6.5 MB file.
 
-  - This code contains java implementations of the following algorithms: IP, ODP-IP, DP, ODP, and IDP (which is the size version of ODP). It also contains a java implementation of the Inclusion-Exclusion algorithm by Bjorklund et al [2009] 
+  - This code contains java implementations of the following algorithms: IP, ODP-IP, DP, ODP, and IDP (which is the size version of ODP). It also contains a java implementation of the Inclusion-Exclusion algorithm by Bjorklund et al [2009]
 
   - For more on the optimization problem itself, or the algorithms, see: [Rahwan et al. An Exact Algorithm for Complete Set Paritioning, 2014] and [Bjorklund et al. Set Partitioning via Inclusion-Exclusion, 2009]
 
