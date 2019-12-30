@@ -1,20 +1,20 @@
 # CSG
 
-Exact Algorithms for *Complete Set Partitioning* (i.e., for *Coalition Structure
-Generation*).
+Exact Algorithms for *Coalition Structure Generation* (i.e., *Complete Set
+Partitioning*).
 
 This repository contains Java implementations of the following algorithms: IP,
-ODP-IP, DP, ODP, IDP (which is the size version of ODP), and
+DP, ODP, IDP (which is the size version of ODP), ODP-IP, IDP-IP, and
 [Inclusion-Exclusion](https://epubs.siam.org/doi/abs/10.1137/070683933). For
 references, see this
 [survey](https://www.sciencedirect.com/science/article/pii/S0004370215001198).
 
-The two main classes are the following (both come with a graphical user
-interface (GUI)):
+Import the repository as a Maven project in Eclipse, or run one of the following
+JARs:
 
-- `SolverRandomProblems`: This allows the user to experiment with the different
+- `SolveRandomProblems`: This allows the user to experiment with the different
   algorithms with randomly-generated problem instances.
-- `SolverParticularProblem`: This allows the user to solver a particular
+- `SolveParticularProblem`: This allows the user to solver a particular
   problem, where the values of different coalitions (i.e., subsets) are stored
   in a file. Below are more details on the format of the file.
 
